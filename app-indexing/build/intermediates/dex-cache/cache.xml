@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_e3d556538c6686ccfb77f26b6153643cbd5d3dee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.0_ac61665b435fa4becf03ca0c623a6df20ef67bab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.3.0_deb87be8bcfcd84513fe906330a101e27e6b8c79/classes.dex" />
+    </item>
+    <item
+        jar="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_f9aa7692c39b001e4aa7965b76e9845d8128eec2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8ec9b84b3af6d157f3d5319a2d9a870d3355850f">
+        <dex dex="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f30fe3d44c4244d41dd27e65b501a51065f55543/classes.dex" />
+    </item>
+    <item
+        jar="/Users/codelab/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.sqliteasset/sqliteassethelper/2.0.1/d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f/sqliteassethelper-2.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/transforms/dex/debug/folders/1000/10/sqliteassethelper-2.0.1_cc88e4f62990524010fd670c2601475d98b6ea2c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_e88047157789af8ffcd084c6822c3d00092a04b4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_c09379d7e4cf54b84cf623364d0670eb9b2f7a01/classes.dex" />
+    </item>
+    <item
+        jar="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bf9b0ac8e0d137e4e9eb52e4f85dab8d771a9b4a">
+        <dex dex="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d5af4485cffa9d299b1bdaf5b8f7b7de6d675dd1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_524977193acdd90993b1adddcb8ee279edac579d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_2e868208ef2f2bcf11a4c79e2122e5db608f875b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/codelab/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_906856daca8e6e8d123f2d2326e9a905bbdc7109/classes.dex" />
+    </item>
+    <item
+        jar="/Users/codelab/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.3.2_043eb0cf27864536240154aa9ae55923c489679e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/codelab/Downloads/app-indexing-master/app-indexing/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_a2fb4431e2774b16750c130ca945303b639a2fc2/classes.dex" />
+    </item>
+
+</items>
